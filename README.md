@@ -51,4 +51,4 @@ Enter the name of the anime : Attack on Titan
 
 The script will output information about "Attack on Titan" if it is found on Anime-Planet.
 
-Author: Nilesh Parmar
+Author: Nilesh Parmar https://www.linkedin.com/in/nilesh-parmar-/
